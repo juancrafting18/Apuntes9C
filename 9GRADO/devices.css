@@ -1,0 +1,6 @@
+@media(min-width: 860px){
+    .image-main-period
+    {
+        background: linear-gradient(75deg, rgb(5, 255, 234), blue);
+    }
+}
